@@ -1,0 +1,39 @@
+*{
+margin: 0;
+font-family: sans-serif;
+color: #fff;
+}
+
+.grey-header{
+background-color: #333;
+padding: 15px 0;
+text-align: center;
+}
+
+.grey-header a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 22px;
+    padding: 0 10px;
+}
+
+.background{
+    height: 865px;
+    background: #5f5f5f url(https://img.freepik.com/free-vector/seamless-white-interlaced-rounded-arc-patterned-background_53876-97975.jpg?size=626&ext=jpg&ga=GA1.1.1086211370.1694311496&semt=ais) top center;
+}
+
+.main-content{
+    text-align: center;
+    padding-top: 90px;
+}
+
+h1{
+    font-size: 60px;
+    color: #333;
+}
+
+h2{
+    font-size: 17px;
+    color: #333;
+    margin-top: 17px;
+}
